@@ -1,0 +1,6 @@
+job_id,job_title,company_name,job_location
+1,Data Scientist,Google,"Mountain View, CA"
+2,Software Engineer,Microsoft,"Redmond, WA"
+3,Product Manager,Apple,"Cupertino, CA"
+4,Marketing Director,Nike,"Beaverton, OR"
+5,HR Manager,Starbucks,"Seattle, WA"
